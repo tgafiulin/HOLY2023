@@ -1,19 +1,7 @@
 {
-  "name": "@shower/shower",
-  "description": "Shower HTML presentation engine",
-  "version": "3.3.0",
-  "author": {
-    "name": "Vadim Makeev",
-    "url": "https://pepelsbey.net/"
-  },
-  "homepage": "https://github.com/shower/shower",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/shower/shower.git"
-  },
-  "bugs": {
-    "url": "https://github.com/shower/shower/issues"
-  },
+  "name": "@tgafiulin/holy2023",
+  "description": "holyjs slides",
+  "version": "1.0.0",
   "license": "MIT",
   "keywords": [
     "shower",
@@ -43,4 +31,4 @@
     "publish": "shower publish --files '**' --files '!{docs,node_modules,bundled}{,/**}' --files '!*.{md,toml,json}'",
     "test": "npm run bundle && ls bundled && npm run archive && path-exists presentation.zip"
   }
-}
+} 
