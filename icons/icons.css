@@ -32,3 +32,19 @@
 .error {
     background-image: url('./error.png');
 }
+
+.friends {
+    background-image: url('./friends.png');
+}
+
+.community {
+    background-image: url('./community.png');
+}
+
+.surprise {
+    background-image: url('./surprise.png');
+}
+
+.conference {
+    background-image: url('./conference.png');
+}
